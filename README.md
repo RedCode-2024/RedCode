@@ -1,5 +1,10 @@
 # RedCode
 
-The RedCode-Exec dataset is located in the RedCode-Exec directory and includes two types of programming languages: Python and Bash. The datasets for each programming language are stored in `bash2text_dataset_json` and `py2text_dataset_json`, respectively. Each JSON file contains three types of entries: code, text summary, and text description.
+## Thanks for your interest in RedCode.
 
-The dataset for RedCode-Gen is located in the RedCode-Gen directory.
+### We have move our data to the following URLs to better maintain RedCode:
+
+#### code: https://github.com/AI-secure/RedCode/
+
+#### project page: https://redcode-agent.github.io/
+
